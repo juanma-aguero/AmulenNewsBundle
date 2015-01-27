@@ -1,0 +1,2 @@
+# AmulenNewsBundle
+Easy blog engine.
